@@ -1,13 +1,11 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/umar-ace/voicereader-releases/releases/download/v1.1.0/VoiceReader.apk",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/umar-ace/voicereader-releases/releases/download/v1.2.0/VoiceReader.apk",
   "releaseNotes": [
-    "Added high-resolution PDF page rendering",
-    "Real-time synchronized text highlighting over document pages",
-    "Floating reading controls with expandable FAB",
-    "Completely silent hands-free microphone toggle",
-    "Full Dark & Light mode theme support"
+    "Light Mode is now the default theme for new installations",
+    "Existing Light/Dark theme preferences are preserved",
+    "Updater test release"
   ],
   "forceUpdate": false
 }
