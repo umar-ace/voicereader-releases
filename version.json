@@ -1,11 +1,13 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/umar-ace/voicereader-releases/releases/download/v1.2.0/VoiceReader.apk",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/umar-ace/voicereader-releases/releases/download/v1.3.0/VoiceReader.apk",
   "releaseNotes": [
-    "Light Mode is now the default theme for new installations",
-    "Existing Light/Dark theme preferences are preserved",
-    "Updater test release"
+    "Improved student-friendly Home experience",
+    "Quick Import actions now open the correct input directly",
+    "Fresh installations start with an empty Library",
+    "Real persistent study streak tracking",
+    "Improved Reading experience and silent microphone controls"
   ],
   "forceUpdate": false
 }
