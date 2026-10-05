@@ -1,13 +1,15 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/umar-ace/voicereader-releases/releases/download/v1.3.0/VoiceReader.apk",
+  "versionCode": 5,
+  "versionName": "1.3.1",
+  "apkUrl": "https://github.com/umar-ace/voicereader-releases/releases/download/v1.3.1/VoiceReader_v1.3.1.apk",
   "releaseNotes": [
     "Improved student-friendly Home experience",
     "Quick Import actions now open the correct input directly",
     "Fresh installations start with an empty Library",
     "Real persistent study streak tracking",
-    "Improved Reading experience and silent microphone controls"
+    "Improved PDF text extraction and reading accuracy",
+    "Exact word chunking and synchronized highlighting",
+    "Improved speech commands and silent microphone controls"
   ],
   "forceUpdate": false
 }
